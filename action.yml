@@ -1,0 +1,9 @@
+name: 'Action Utils'
+author: 'edgarrc'
+description: 'Command line utils on debian'
+branding:
+  icon: 'folder-plus'  
+  color: 'black'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
